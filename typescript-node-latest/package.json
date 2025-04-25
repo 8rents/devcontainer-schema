@@ -1,0 +1,24 @@
+{
+  "name": "typescript-node-latest",
+  "version": "0.0.1",
+  "description": "typescript in nodejs latest version devcontainer template",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8rents/devcontainer-templates.git"
+  },
+  "keywords": [
+    "github",
+    "devcontainer",
+    "templates"
+  ],
+  "author": "Brenton Holiday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8rents/devcontainer-templates/issues"
+  },
+  "homepage": "https://github.com/8rents/devcontainer-templates#readme"
+}
