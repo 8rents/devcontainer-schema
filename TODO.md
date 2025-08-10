@@ -22,12 +22,28 @@
 
 ### Config Folders
 
-- [ ] add `.dotfiles` folder
-- [ ] add `.editor` features folder
-  - [ ] Linting
-  - [ ] Color Scheme
-- [ ] add `.github` support
-  - [ ] Builds
-  - [ ] Deployments
-- [ ] try to add a `.node` folder for all node/npm build processes
-- [ ] Try to move all config folders into a `.config` or `.project` folder
+*Ideally each of these folders will be auto populated into a new devcontainer repo or selected by the devcontainer-template.json file values at the appropriate branch.*
+    
+- [ ] **.devcontainer**
+  *devcontainer configurations and settings*
+  - [Creating a devcontainer](https://code.visualstudio.com/docs/devcontainers/create-dev-container)
+
+- [ ] **.dotfiles**     
+  *Command line configurations & customizations*
+  - [Attlassian Guide to DotFiles](https://www.atlassian.com/git/tutorials/dotfiles) & [Ultimate guide to DotFiles](https://www.daytona.io/dotfiles/ultimate-guide-to-dotfiles)
+
+- [ ] **.github**    
+  *For workflows & actions that will be run on github.*
+  - [How to use the .github repository](https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/)
+
+- [ ] **.git**     
+  *Local repository info & git hooks*
+  - [Understanding the contents of the .git folder](https://dev.to/rajaniraiyn/understanding-the-contents-of-the-git-folder-ef)
+
+- [ ] **.editorconfig**    
+  *EditorConfig helps maintain consistent coding styles*
+  - [What is EditorConfig?](https://editorconfig.org/)
+
+- [ ] **.vscode**    
+  *vscode User and workspace settings*
+  - [vscode user and workspace settings](https://code.visualstudio.com/docs/configure/settings)
