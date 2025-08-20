@@ -7,6 +7,7 @@
 ## Repository Table of Contents
 
 - [Repository Todo](TODO.md)
+- [Repository Roadmap](docs/roadmap/README.md)
 - [Documentation Articles](docs/README.md)
 
 ## Table of Contents
