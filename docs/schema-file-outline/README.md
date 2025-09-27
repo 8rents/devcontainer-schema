@@ -1,4 +1,8 @@
-# devcontainer Schema Goals
+[Home](../README.md)__|__ [Todo List](../TODO.md) __|__ **[Docs](../README.md)** __|__ [Reference](../reference/README.md)
+
+---
+
+# Schema Outline
 
 > *Outline of my goals creating the devContainer schema file*
 
@@ -14,3 +18,9 @@
    2. Datatype for value
    3. Description for the key / value
    4. Possible / common values
+
+## Links
+
+- [Comprehensive documentation for devcontainers on containers.dev](https://containers.dev/)
+- [List of possible devcontainer features](https://containers.dev/features)
+- [Full devcontainer schema](https://containers.dev/implementors/json_schema/)
