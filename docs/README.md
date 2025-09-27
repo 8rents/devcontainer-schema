@@ -1,20 +1,26 @@
-# DevContainer Docs
+[Home](../README.md)__|__ [Todo List](../TODO.md) __|__ **Docs** __|__ [Reference](../reference/README.md)
+
+---
+
+# Docs
 
 >  *Articles and guides on creating and working with devcontainers on GitHub and from scratch*
 
 ---
 
-## Table of Contents
+## In this Doc
 
-### Example devContainers
+- [Creating devContainers](#creating-devcontainers)
+- [Deprecated](#deprecated)
 
-- #### [Typescript Node Latest](../typescript-node-latest/README.md)
-  Example devContainer for typescript support in nodejs that has various options for vscode, github & eslint for reference.
+---
 
 ### Creating devContainers
 
 - #### [Schema File Outline Goals](schema-file-outline/README.md)
   Goals for creating a schema file that will outline all devContainer options available 
+
+---
 
 ### Deprecated
 
