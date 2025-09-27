@@ -1,18 +1,22 @@
+__Home__ __|__ [Todo List](TODO.md) __|__ [Docs](docs/README.md) __|__ [Reference](reference/README.md)
+
+---
+
 # DevContainer Templates
 
 > *A number of resources in creating devcontainers from scratch*
 
 ---
 
-## Repository Table of Contents
+## In this Document
 
-- [Repository Todo](TODO.md)
-- [Repository Roadmap](docs/roadmap/README.md)
-- [Documentation Articles](docs/README.md)
+## Links
 
-## Table of Contents
+- [Comprehensive documentation for devcontainers on containers.dev](https://containers.dev/)
+- [List of possible devcontainer features](https://containers.dev/features)
+- [Full devcontainer schema](https://containers.dev/implementors/json_schema/)
 
-### General 
+## General 
 
 - #### [Repository Todo](TODO.md)
   Everything I want to get done with this repository.
@@ -28,9 +32,7 @@
 
 - #### [Typescript Node Latest](reference/typescript-node-latest/README.md)
   
-- 
-  
-  Example devContainer for typescript support in nodejs that has various options for vscode, github & eslint for reference.
+- Example devContainer for typescript support in nodejs that has various options for vscode, github & eslint for reference.
 
 ---
 
