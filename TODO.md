@@ -13,6 +13,8 @@
   - [ ] add common values as comments
   - [ ] create a vanilla node container based on this
 
+---
+
 ## NodeJS Templates
 
 - [ ] vanilla nodejs latest
@@ -20,9 +22,13 @@
 - [ ] node latest with express
 - [ ] node front end build based on puddletown bootstrap
 
+---
+
 ## Per Template
 
 - [ ] make sure it works with codespaces
+
+---
 
 ### Config Folders
 
