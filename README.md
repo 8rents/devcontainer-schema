@@ -8,12 +8,11 @@ __Home__ __|__ [Todo List](TODO.md) __|__ [Docs](docs/README.md) __|__ [Referenc
 
 ---
 
-## In this Document
-
 ## Links
 
-- [Comprehensive documentation for devcontainers on containers.dev](https://containers.dev/)
-- [List of possible devcontainer features](https://containers.dev/features)
+- [containers.dev](https://containers.dev/)
+- [devcontainer features](https://containers.dev/implementors/features/)
+- [devcontainer templates](https://containers.dev/implementors/templates/)
 - [Full devcontainer schema](https://containers.dev/implementors/json_schema/)
 
 ## General 
