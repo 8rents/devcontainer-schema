@@ -2,9 +2,9 @@ __Home__ __|__ [Todo List](TODO.md) __|__ [Docs](docs/README.md) __|__ [Referenc
 
 ---
 
-# DevContainer Templates
+# DevContainer Schema
 
-> *A number of resources in creating devcontainers from scratch*
+> *An Attempt to outline the entire devContainer schema, filled with comments and key / value explanations.*
 
 ---
 
